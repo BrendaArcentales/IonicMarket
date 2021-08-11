@@ -1,7 +1,7 @@
 # IonicMarket-Taxi
 La sigueinte aplicación es extraida del Ionic Market y se asemeja a la aplicación de uber para pedir un taxi por el telefono.Su funcionamiento es de la siguiente manera:
 1. Tiene una pagina principal donde se permite que el usuario se logee cuando tiene una cuenta o se registre para crear su cuenta, como se ve en la sigueinte imagen:
-![WhatsApp Image 2021-08-10 at 19 09 12 (9)](https://user-images.githubusercontent.com/66123679/128951095-3032190c-887c-4964-9e17-48159ed87382.jpeg)
+![WhatsApp Image 2021-08-10 at 19 09 12 (6)](https://user-images.githubusercontent.com/66123679/128951876-44e7227a-d935-4884-8fb6-276543a7dc37.jpeg)
 2. Cuando se logea la interfaz es la siguiente
 ![WhatsApp Image 2021-08-10 at 19 10 28](https://user-images.githubusercontent.com/66123679/128951008-b5a4c71a-d795-4551-ba13-56b0d0b5e202.jpeg)
 3. Mientras cuando se registra la interfaz permite llenar los campos de nombre, celular, correo de la siguiente manera:
